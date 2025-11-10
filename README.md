@@ -1,4 +1,3 @@
-# tp1_PostgreSQL
 # TP1 : Gestion d’utilisateurs — PostgreSQL
 
 Ce projet consiste à créer un schéma de base de données pour gérer les **utilisateurs**, leurs **rôles**, et leurs **permissions**, selon une architecture de type RBAC *(Role-Based Access Control)*.
