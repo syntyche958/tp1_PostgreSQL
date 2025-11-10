@@ -20,6 +20,7 @@ Le script `gestion_utilisateur.sql` contient :
 
 ✅ Table de suivi des connexions :
 - `sessions`
+- `logs_connection`
 
 ✅ Contraintes et bonnes pratiques :
 - Clés primaires et étrangères
@@ -63,7 +64,7 @@ Ce modèle permet une gestion flexible des droits d’accès.
 
 ## 👤 Auteur
 
-- **Nom** : _À compléter_
+- **Nom** : Djuissi Syntyche
 - **BUT Informatique — TP Bases de Données_
 
 ---
